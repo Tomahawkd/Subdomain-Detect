@@ -1,0 +1,15 @@
+{
+  "name": "subdomain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "devDependencies": {
+    "puppeteer": "latest"
+  },
+  "keywords": [],
+  "author": "Tomahawkd",
+  "license": "ISC"
+}
