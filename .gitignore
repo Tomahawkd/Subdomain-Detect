@@ -144,5 +144,5 @@ fabric.properties
 
 # temp file
 data/
-/.idea/
+.idea/
 package-lock.json
